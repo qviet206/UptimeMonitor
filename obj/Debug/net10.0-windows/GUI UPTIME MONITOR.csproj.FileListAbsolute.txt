@@ -1,0 +1,32 @@
+C:\Users\PC\source\repos\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI Uptime Monitor.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI Uptime Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI Uptime Monitor.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI Uptime Monitor.AssemblyInfo.cs
+C:\Users\PC\source\repos\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI Uptime Monitor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI_Uptime_Monitor.Form1.resources
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.exe
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.deps.json
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.runtimeconfig.json
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.dll
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.pdb
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.dll
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\obj\Debug\net10.0-windows\refint\GUI UPTIME MONITOR.dll
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.pdb
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.genruntimeconfig.cache
+C:\Users\PC\source\repos\GUI UPTIME MONITOR\obj\Debug\net10.0-windows\ref\GUI UPTIME MONITOR.dll
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.exe
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.deps.json
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.runtimeconfig.json
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.dll
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\bin\Debug\net10.0-windows\GUI UPTIME MONITOR.pdb
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI_UPTIME_MONITOR.Form1.resources
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.csproj.GenerateResource.cache
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.AssemblyInfoInputs.cache
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.AssemblyInfo.cs
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.dll
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\refint\GUI UPTIME MONITOR.dll
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.pdb
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\GUI UPTIME MONITOR.genruntimeconfig.cache
+C:\Users\Quoc Viet\Downloads\GUI Uptime Monitor\obj\Debug\net10.0-windows\ref\GUI UPTIME MONITOR.dll
